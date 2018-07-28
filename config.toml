@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "A Hugo website"
+languageCode = "zh-cn"
+title = "张振国的博客"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = "fortune9"
@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://www.linkedin.com/in/zhenguo-zhang-418b0220/"
     weight = 4
 [[menu.main]]
-    name = "English"
+    name = "EnglishBlog"
     url = "http://fortune9.netlify.com/"
     weight = 6
 
