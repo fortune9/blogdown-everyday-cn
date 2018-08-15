@@ -6,6 +6,14 @@ googleAnalytics = "UA-123530841-1"
 disqusShortname = "fortune9"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+# added settings
+hasCJKLanguage = true # there is chinese/japanese/korean in content
+#logFile = "site.log"
+publishDir = "public"
+staticDir = "static"
+themesDir = "themes"
+enableEmoji = true # allow Emoji emotions
+
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 [[menu.main]]
