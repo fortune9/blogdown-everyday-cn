@@ -23,12 +23,13 @@ tags:
 1. 用iTunes备份iphone到你的电脑上（Mac或者Windows系统都行）。关于如何备份可以参考这个链接https://support.apple.com/en-us/ht203977或者google search。
 
 2. 备份结束后，打开备份文件夹，位置应该在： 
-   a. Mac: ~/Library/Application Support/MobileSync/Backup/
-   b. Windows: C:\Users\USERNAME\AppData\Roaming\Apple Computer\MobileSync\Backup\ (USERNAME是你的电脑用户名)。
+    a. Mac: ~/Library/Application Support/MobileSync/Backup/
+    b. Windows: C:\Users\USERNAME\AppData\Roaming\Apple Computer\MobileSync\Backup\ (USERNAME是你的电脑用户名)。
 
 3. 在这个备份文件夹里面，有很多子文件夹。我们需要找到以下两个文件：
-   a. 3d0d7e5fb2ce288813306e4d4636395e047a3d28 (含有你的短信)
-   b. 5a4935c78a5255723f707230a451d79c540d2741 (含有你的通话记录)
+    a. 3d0d7e5fb2ce288813306e4d4636395e047a3d28 (含有你的短信).
+    b. 5a4935c78a5255723f707230a451d79c540d2741 (含有你的通话记录).
+    
 最简单的找到这两个文件的办法就是拷贝上面的文件名，然后在文件夹的
 搜索框里面搜索。
 
